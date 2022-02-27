@@ -1,5 +1,7 @@
 import { RepositoryItem } from "./RepositoryItem";
 
+import '../styles/repositories.scss'
+
 const repository = {
    name: "Jan Urban Neto",
    description: "Forms in React",
